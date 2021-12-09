@@ -30,12 +30,12 @@ const USER = {
             owner: "LE DUC HOANG PHUC",
             fastTransfer: true
         },
-        {
-            name: "ZALO PAY",
-            logo: "./images/zalopay.png",
-            number: "0334955115",
-            owner: "TRINH NGOC MINH"
-        },
+//        {
+//            name: "ZALO PAY",
+//            logo: "./images/zalopay.png",
+//            number: "0334955115",
+//            owner: "TRINH NGOC MINH"
+//        },
 //        {
 //            name: "VIETTEL PAY",
 //            logo: "./images/viettelpay.png",
