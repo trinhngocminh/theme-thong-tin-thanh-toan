@@ -30,7 +30,7 @@ a:hover {
 
 body {
     overflow: hidden!important;
-    background: url(../images/background1.jpeg);
+    background: url(https://i.imgur.com/chAkM6a.jpg);
     background-size: cover;
     background-position: center
 }
@@ -60,7 +60,7 @@ body {
 
 .banks~a:hover {
     color: var(--primary-color);
-    background: url('../images/background2.png');
+    background: url('https://i.imgur.com/nIW5ysb.png');
     background-size: cover;
     background-position: center;
     border: 2px solid var(--dark-color)
