@@ -12,5 +12,12 @@ const USER = {
             owner: "LE DUC HOANG PHUC",
             fastTransfer: true
         },
+        {
+            name: "THẺ SIÊU RẺ",
+            logo: "./images/tsr.png",
+            number: "0344447499",
+            owner: "LE DUC HOANG PHUC",
+            fastTransfer: true
+        },
     ]
 };
