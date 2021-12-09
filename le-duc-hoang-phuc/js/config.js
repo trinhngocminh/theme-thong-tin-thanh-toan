@@ -3,7 +3,7 @@ const USER = {
             name: "MB BANK",
             logo: "./images/mbbank.png",
             number: "0334955115",
-            owner: "TRAN DUC LUONG"
+            owner: "LE DUC HOANG PHUC"
         },
  //       {
  //           name: "BIDV BANK",
@@ -17,17 +17,17 @@ const USER = {
  //           number: "xxxxxxxxxxxx",
  //           owner: "LE ANH DUC"
  //       },
-        {
-            name: "PAYPAL",
-            logo: "./images/paypal.png",
-            number: "ngocminhvn",
-            owner: "TRINH NGOC MINH"
-        },
+ //       {
+ //           name: "PAYPAL",
+ //           logo: "./images/paypal.png",
+ //           number: "ngocminhvn",
+ //           owner: "TRINH NGOC MINH"
+ //       },
         {
             name: "MOMO",
             logo: "./images/momo.png",
-            number: "0387911646",
-            owner: "TRAN DUC LUONG",
+            number: "0344447499",
+            owner: "LE DUC HOANG PHUC",
             fastTransfer: true
         },
         {
